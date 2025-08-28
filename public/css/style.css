@@ -272,7 +272,7 @@ img {
 }
 /*-- /reset code --*/
 body {
-	font-family: 'Arial', cursive;
+	font-family: 'Playfair Display', serif;
 }
 .jarallax {
     position: relative;
@@ -951,7 +951,7 @@ section.subs .subscribe input#mail {
 	border:1px solid #fff;
     border-right: transparent;
 	border-radius:0;
-	font-family: 'Arial', cursive;
+	font-family: 'Playfair Display', serif;
 }
 section.subs .subscribe button.btn.btn-outline.btn-lg {
     width:30%;
